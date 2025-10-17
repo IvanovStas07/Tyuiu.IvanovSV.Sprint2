@@ -10,19 +10,19 @@ namespace Tyuiu.IvanovSV.Sprint2.Task0.V19
 
 
             Console.Title = "Спринт 1 | Выполнил: Иванов С В | ИСТНб-25-1";
-            Console.WriteLine(new string('*', 75));
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Задание #0                                                             *");
             Console.WriteLine("* Вариант #19                                                            *");
             Console.WriteLine("* Выполнил: Иванов С В | ИСТНб-25-1                                       *");
-            Console.WriteLine(new string('*', 75));
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, >, <=, >=, последовательность операций не должна нарушаться) и арифметических выражений,  *");
             Console.WriteLine("* которая вернет логическую последовательность(массив): (True, True, True, True, True, True), при x = 105, y = 177                   *");
             Console.WriteLine("*                                                                         *");
-            Console.WriteLine(new string('*', 75));
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
-            Console.WriteLine(new string('*', 75));
+            Console.WriteLine("***************************************************************************");
             int x = 105;
             int y = 177;
             bool[] res = new bool[6];
