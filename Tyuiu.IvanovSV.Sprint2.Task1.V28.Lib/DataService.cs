@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovSV.Sprint2.Task1.V28.Lib
     {
         public bool[] GetLogicOperations(int a, int b, int c, int d)
         {
-            bool[] res = new bool[6];// a=247,b=654,c,d=671
+            bool[] res = new bool[6];
             res[0] = (a < b) | (c > d);
             res[1] = (a > b) & (c == d);
             res[2] = (a + 2 < b) || (c != d);

@@ -19,7 +19,7 @@ namespace Tyuiu.IvanovSV.Sprint2.Task1.V28
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу из операций сравнений и логических операций, а также *");
             Console.WriteLine("* арифметических выражений, которая вернет логическую последовательность  *");
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("* true, false, true, false, true, false                                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("*                                                                         *");
